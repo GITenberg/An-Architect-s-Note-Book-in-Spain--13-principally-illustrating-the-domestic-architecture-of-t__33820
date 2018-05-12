@@ -1,0 +1,29 @@
+_repo: An-Architect-s-Note-Book-in-Spain--13-principally-illustrating-the-domestic-architecture-of-t__33820
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33820-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wyatt, M. Digby (Matthew Digby), Sir
+    alias: Wyatt, Matthew Digby, Sir
+    birthdate: 1820
+    deathdate: 1877
+    gutenberg_agent_id: '36658'
+    url: http://www.gutenberg.org/2009/agents/36658
+description: ''
+gutenberg_issued: '2010-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33820'
+  lccn: '12023598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture -- Spain'
+- !lcc 'NA'
+title: "An Architect's Note-Book in Spain\r\nprincipally illustrating the domestic\
+  \ architecture of that country."
+url: http://www.gutenberg.org/ebooks/33820
